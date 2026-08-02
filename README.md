@@ -32,7 +32,7 @@ LuxeWear-Product-Showcase/
 
 ## Preview
 
-![LuxeWear Product Showcase](./assets/img/Product Showcase.png)
+![Project Screenshot](./assets/img/Product%20Showcase.png)
 
 ## Author
 
