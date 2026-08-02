@@ -28,11 +28,11 @@ LuxeWear-Product-Showcase/
 
 - HTML5
 - CSS3
-- Font Awesome
+- BootStrap icons
 
 ## Preview
 
-![Project Screenshot](assets/img/Product%20Showcase.png)
+![LuxeWear Product Showcase](./assets/img/Product Showcase.png)
 
 ## Author
 
