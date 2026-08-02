@@ -30,10 +30,6 @@ LuxeWear-Product-Showcase/
 - CSS3
 - BootStrap icons
 
-## Preview
-
-![Project Screenshot](./assets/img/Product%20Showcase.png)
-
 ## Author
 
 Yasir Awan
